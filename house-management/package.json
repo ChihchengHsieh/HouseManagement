@@ -16,7 +16,7 @@
     "cookie-universal-nuxt": "^2.0.14",
     "cross-env": "^5.2.0",
     "firebase": "^5.11.1",
-    "firebase-tools": "^6.9.1",
+    "firebase-tools": "^11.30.0",
     "heroku": "^7.24.3",
     "moment": "^2.24.0",
     "nuxt": "^2.4.0",
